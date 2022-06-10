@@ -1,0 +1,20 @@
+                  Lluvia de palabras.
+
+En primer lugar , selecciona la dificultad en la que quieres jugar.
+Nivel 1.- Solo apareceran caracteres sencillos en pantalla.
+Nivel 2.-Apareceran palabras de 4 caracteres.
+Nivel 3.-Las palabras que se generaran seran de 6 caracteres.
+Nivel 4.-Las palabras son mas complejas, con un total de hasta 9 caracteres.
+
+Hecho esto, es hora de seleccionar la velocidad.
+zzz.-Relajate mientras las palabras caen a una velocidad caracol.
+Normal.-Las cosas se ponen un poco mas movidas, pero nada del otro mundo.
+Movidito.-Presiona esas teclas a la velocidad en la que bailarias un cumbion.
+Fiuuuun.-Las palabras caen rapido , como Francesco , ¡fiuuuuun!
+
+Presiona el boton de inicio, y comienza a jugar.
+Debes de teclear la letra o palabra que aparece en color azul en el area de texto.
+Si te equivocas , tu puntaje se vera afectado :0,cada vez que te equivoques, 
+el puntaje bajara mas rapido.
+Si una letra llega al fondo de la pantalla, tambien tu puntaje baja.
+Si tu puntaje llega a 0, es GAME OVER.
